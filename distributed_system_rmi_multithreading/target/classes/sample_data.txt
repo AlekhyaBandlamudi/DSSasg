@@ -1,0 +1,3 @@
+moon is white
+moon is dull
+white is good
